@@ -1,5 +1,5 @@
 {
-  "name": "Learn Nuxt",
+  "name": "learnNuxt",
   "version": "1.0.0",
   "description": "A Nuxt.js project",
   "author": "wangming <627867982@qq.com>",
@@ -19,6 +19,7 @@
     }
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "nuxt": "^1.0.0"
   },
   "devDependencies": {

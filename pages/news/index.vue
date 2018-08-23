@@ -3,16 +3,16 @@
     <h2>About index news</h2>
     <p>NEWSID:{{$route.params.newsId}}</p>
     <ul>
-      <li><a href="/">HOME</a></li>
-      <li><a href="/news/123">news-1</a></li>
-      <li><a href="/news/456">news-2</a></li>
+      <li><nuxt-link :to="{name:'index'}">HOME</nuxt-link></li>
+      <li><nuxt-link :to="{name:'news-id',params:{id:123,title:'new title'}}">news-1</nuxt-link></li>
+      <li><nuxt-link :to="{name:'news-id',params:{id:mmm}}">news-2</nuxt-link></li>
     </ul>
   </div>
 </template>
 
 <script>
   export default {
-    
+    transition: 'test'
   }
 </script>
 
