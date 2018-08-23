@@ -1,6 +1,6 @@
-# nuxtdemo
+# Learn Nuxt
 
-> Nuxt.js project
+> A Nuxt.js project
 
 ## Build Setup
 

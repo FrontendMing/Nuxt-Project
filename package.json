@@ -1,7 +1,7 @@
 {
-  "name": "nuxtdemo",
+  "name": "Learn Nuxt",
   "version": "1.0.0",
-  "description": "Nuxt.js project",
+  "description": "A Nuxt.js project",
   "author": "wangming <627867982@qq.com>",
   "private": true,
   "scripts": {
