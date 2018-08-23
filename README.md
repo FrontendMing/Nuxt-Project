@@ -18,7 +18,9 @@ $ npm start
 # generate static project
 $ npm run generate
 
-# then npm intall -g live-server
+# then 
+# npm intall -g live-server
+# live-server
 ```
 
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
